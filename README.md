@@ -22,24 +22,22 @@
 
 ## ⚙️ Tech Stack
 
+<!-- 💻 Main Stack -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,express,fastapi,mysql,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,express,fastapi,mysql,arduino" />
 </p>
 
+<!-- 💻 Core Languages -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=cpp,c" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
+<!-- 🧠 AI / Data Tools -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-Ganmukhe&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Ganmukhe&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" />
+</p>>
 
 ## 📈 Activity Graph
 
