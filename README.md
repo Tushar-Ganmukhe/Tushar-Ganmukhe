@@ -25,20 +25,17 @@
 <!-- 💻 Main Stack -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,express,fastapi,mysql,arduino" />
-</p>
-
-<!-- 💻 Core Languages -->
-<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c" />
 </p>
 
-<!-- 🧠 AI / Data Tools -->
-<p align="center">
+
+
+<p align="center">  
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" />
-</p>>
-
+</p>
 ## 📈 Activity Graph
 
 [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushar-Ganmukhe&theme=tokyo-night&hide_border=true)](https://github.com/Tushar-Ganmukhe)
